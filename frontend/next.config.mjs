@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/Scrapper_job-antioquia',
+  trailingSlash: true,
   images: {
     unoptimized: true,
   },

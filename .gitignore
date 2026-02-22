@@ -1,0 +1,34 @@
+# Secrets - NO SUBIR
+.env
+*.env
+credentials.json
+
+# Datos scrapeados
+empleos_antioquia_*.json
+frontend/lib/real-data.json
+data/
+logs/
+
+# Node.js
+node_modules/
+.next/
+.npm/
+.yarn/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+venv/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

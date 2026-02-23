@@ -3,9 +3,8 @@
 *.env
 credentials.json
 
-# Datos scrapeados
+# Datos scrapeados grandes
 empleos_antioquia_*.json
-frontend/lib/real-data.json
 data/
 logs/
 
